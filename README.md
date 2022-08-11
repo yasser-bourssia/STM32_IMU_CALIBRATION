@@ -14,3 +14,4 @@ Only the two first matrices are used; to use these formulaes, we need to first c
 
 The computation of the angles is also included in the main.c file.
 
+NB: to use this code, make the appropriate changes to the HAL functions.
